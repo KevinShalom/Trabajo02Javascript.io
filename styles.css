@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', Courier, monospace;
+    text-align: center;
+    background-image: url('marioGIF.gif'), url('Publicidad2.jpg'), url('retroGIF.gif'), url('megamanGIF.gif'), url('fondoGIF.gif');
+    background-size: 25%, 30%, 15%, 15%, 100%; 
+    background-position: 100px 500px, 1200px 50px, 200px 50px, 1400px 500px, center center; 
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+}
+
+
+#board {
+    
+    background-image: url("./flappybirdbg.png");
+    
+}
