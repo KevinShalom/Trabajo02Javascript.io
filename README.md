@@ -9,13 +9,11 @@ Flappy Bird es un juego simple y adictivo en el que controlas a un pájaro que v
 ## Capturas de Pantalla
 
 ![Captura de pantalla 1](https://imgur.com/a/t3rThyx)
-![Captura de pantalla 2](screenshot2.png)
 
 ## Características
 
-- Controles simples: toca la pantalla o haz clic para que el pájaro vuele hacia arriba.
+- Controles simples: toca la pantalla o haz clic con el maus para que el pájaro vuele hacia arriba.
 - Puntuación: el juego registra tu puntuación más alta.
-- Sonidos: efectos de sonido simples para la interacción del juego.
 
 ## Instalación
 
