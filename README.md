@@ -8,7 +8,7 @@ Flappy Bird es un juego simple y adictivo en el que controlas a un pájaro que v
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1]((https://imgur.com/a/t3rThyx))
+![Captura de pantalla 1](https://imgur.com/a/t3rThyx)
 ![Captura de pantalla 2](screenshot2.png)
 
 ## Características
