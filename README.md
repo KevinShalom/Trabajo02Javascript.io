@@ -27,19 +27,8 @@ Flappy Bird es un juego simple y adictivo en el que controlas a un pájaro que v
 
 - Haz clic con el ratón o toca la pantalla para que el pájaro vuele hacia arriba y evite las tuberías.
 
-## Contribuir
-
-¡Siéntete libre de contribuir a este proyecto! Puedes ayudar a mejorar el código, agregar nuevas características, solucionar errores o proporcionar traducciones.
-
 ## Créditos
 
 - Este juego fue creado utilizando [Phaser](https://phaser.io/), un framework de código abierto para la creación de juegos en HTML5.
 - Las imágenes y sonidos utilizados en este juego fueron obtenidos de recursos gratuitos en línea.
 
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
-
-## Agradecimientos
-
-¡Gracias por jugar y por tu interés en este proyecto!
